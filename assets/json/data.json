@@ -1,0 +1,1016 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Pizza Hut Surat",
+      "cuisine": "Italian",
+      "rating": 4.5,
+      "location": {
+        "address": "Adajan, Surat, Gujarat",
+        "latitude": 21.1865,
+        "longitude": 72.7952
+      },
+      "menu": [
+        {
+          "item_id": 101,
+          "name": "Margherita Pizza",
+          "description": "Classic cheese and tomato pizza.",
+          "price": 200,
+          "category": "Pizza",
+          "is_veg": true,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.90f9451fd66871fb6f9cf7d506053f18.1.jpg"
+        },
+        {
+          "item_id": 102,
+          "name": "Pepperoni Pizza",
+          "description": "Pizza topped with pepperoni slices.",
+          "price": 300,
+          "category": "Pizza",
+          "is_veg": false,
+          "image_url": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.pepperoni-lovers.69f7bdf7b6f50a87eb2886934fe0be9f.1.jpg"
+        },
+        {
+          "item_id": 103,
+          "name": "Veggie Supreme",
+          "description": "Loaded with fresh vegetables.",
+          "price": 250,
+          "category": "Pizza",
+          "is_veg": true,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veggie-supreme.bc8dd369182b636ff171077efa53c344.1.jpg"
+        },
+        {
+          "item_id": 104,
+          "name": "Garlic Bread",
+          "description": "Crispy garlic-flavored bread.",
+          "price": 120,
+          "category": "Starters",
+          "is_veg": true,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/side/exotica-veggie-garlic-bread-single.216da94380a3faa722679fa2937fc5f9.1.jpg"
+        },
+        {
+          "item_id": 105,
+          "name": "Chicken Wings",
+          "description": "Spicy grilled chicken wings.",
+          "price": 200,
+          "category": "Starters",
+          "is_veg": false,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/side/spicy-baked-chicken-wings.47e2a22f9bc8064237dce3e0ce38a424.1.jpg"
+        },
+        {
+          "item_id": 106,
+          "name": "Pasta Alfredo",
+          "description": "Creamy white sauce pasta.",
+          "price": 180,
+          "category": "Pasta",
+          "is_veg": true,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/side/creamy-mushroom-pasta-single.cf2ea0b00c49b1c95e7d25601c503314.1.jpg"
+        },
+        {
+          "item_id": 107,
+          "name": "Choco Lava Cake",
+          "description": "Warm chocolate cake with molten center.",
+          "price": 150,
+          "category": "Dessert",
+          "is_veg": true,
+          "image_url": "https://static.phdvasia.com/nz/menu/single/desktop_thumbnail_bb1b8541-5097-4d6c-81a9-a51584a87f00.jpg"
+        },
+        {
+          "item_id": 108,
+          "name": "Pepsi",
+          "description": "Chilled soft drink.",
+          "price": 50,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/masala-pepsi.557d0a593755b9bbd8cde2da66fd2581.1.jpg"
+        },
+        {
+          "item_id": 109,
+          "name": "Garlic Breadsticks",
+          "description": "Soft breadsticks with garlic flavor.",
+          "price": 100,
+          "category": "Starters",
+          "is_veg": true,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/side/creamy-garlic-bread-stix.53825d02235a58ba128e39e938fe7aa1.1.jpg"
+        },
+        {
+          "item_id": 110,
+          "name": "Spicy Tandoori Pizza",
+          "description": "Pizza with spicy Tandoori sauce.",
+          "price": 220,
+          "category": "Pizza",
+          "is_veg": true,
+          "image_url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/ultimate-tandoori-veggie.059dfd9b3f088818ed725872d98d20b6.1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Makhan Bhog",
+      "cuisine": "Indian",
+      "rating": 4.7,
+      "location": {
+        "address": "Ghod Dod Road, Surat, Gujarat",
+        "latitude": 21.1950,
+        "longitude": 72.8170
+      },
+      "menu": [
+        {
+          "item_id": 201,
+          "name": "Kachori",
+          "description": "Crispy fried snack filled with spiced lentils.",
+          "price": 50,
+          "category": "Snacks",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/c40/ae3d845bf021789f0da7d6a98ed44c40.jpg"
+        },
+        {
+          "item_id": 202,
+          "name": "Chole Bhature",
+          "description": "Spicy chickpeas served with fried bread.",
+          "price": 180,
+          "category": "Main Course",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/0f1/13f5fada1f55270b90a2a2c1d437e0f1.jpg"
+        },
+        {
+          "item_id": 203,
+          "name": "Rajma Rice",
+          "description": "Red kidney beans served with steamed rice.",
+          "price": 200,
+          "category": "Main Course",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/pictures/chains/6/21020246/2273bf5beca03736b9001bda57668fdd.png"
+        },
+        {
+          "item_id": 204,
+          "name": "Paneer Paratha",
+          "description": "Stuffed flatbread with spiced paneer filling.",
+          "price": 120,
+          "category": "Bread",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/456/27dc0ba6e56ec678e3c22142427b9456.jpg"
+        },
+        {
+          "item_id": 205,
+          "name": "Dhokla",
+          "description": "Steamed fermented batter snack made from rice and chickpeas.",
+          "price": 80,
+          "category": "Snacks",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/578/43d78ed7d9974ea815cb8e289e3a6578.jpg"
+        },
+        {
+          "item_id": 206,
+          "name": "Ras Malai",
+          "description": "Soft paneer balls in sweetened milk.",
+          "price": 150,
+          "category": "Dessert",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/0b2/61da75fe259fb64e0b85fff7da5520b2.jpg"
+        },
+        {
+          "item_id": 207,
+          "name": "Aloo Paratha",
+          "description": "Stuffed flatbread with spiced mashed potatoes.",
+          "price": 100,
+          "category": "Bread",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/024/eea39547ef32544bfc4a142a1fbb0024.jpg"
+        },
+        {
+          "item_id": 208,
+          "name": "Malai Kofta",
+          "description": "Soft dumplings in a rich, creamy gravy.",
+          "price": 240,
+          "category": "Main Course",
+          "is_veg": true,
+          "image_url": "https://eatanmol.com/wp-content/uploads/Malai-Kofta.jpg"
+        },
+        {
+          "item_id": 209,
+          "name": "Pulao",
+          "description": "Rice cooked with aromatic spices and vegetables.",
+          "price": 160,
+          "category": "Rice",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/2c0/a1796c144a91faac9b13165f450602c0.jpg"
+        },
+        {
+          "item_id": 210,
+          "name": "Jalebi",
+          "description": "Deep-fried spirals soaked in sugar syrup.",
+          "price": 90,
+          "category": "Dessert",
+          "is_veg": true,
+          "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/d32ca533038c71b202a1f9e4b570f53e"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "cuisine": "Fast Food",
+      "rating": 4.5,
+      "location": {
+        "address": "VR Mall, Dumas Road, Surat, Gujarat",
+        "latitude": 21.1418,
+        "longitude": 72.7709
+      },
+      "menu": [
+        {
+          "item_id": 301,
+          "name": "Whopper",
+          "description": "Signature flame-grilled beef burger.",
+          "price": 320,
+          "category": "Burgers",
+          "is_veg": false,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGub3KrFrkkYlhuNNmkeI14ut2AABh7YkVQ&s"
+        },
+        {
+          "item_id": 302,
+          "name": "Crispy Veg Burger",
+          "description": "Crispy vegetable patty with fresh lettuce.",
+          "price": 150,
+          "category": "Burgers",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/2ee/2cc495a50e4e7ace02f5bb2d43dd82ee.jpeg"
+        },
+        {
+          "item_id": 303,
+          "name": "Chicken Fries",
+          "description": "Crispy chicken strips served with dip.",
+          "price": 200,
+          "category": "Sides",
+          "is_veg": false,
+          "image_url": "https://p.turbosquid.com/ts-thumb/Ac/LzkwFR/m4/turntable/jpg/1626219645/1920x1080/turn_fit_q99/88119883245f0c3669a26dbd3d0437742592f20e/turntable-1.jpg"
+        },
+        {
+          "item_id": 304,
+          "name": "French Fries",
+          "description": "Golden crispy fries.",
+          "price": 120,
+          "category": "Sides",
+          "is_veg": true,
+          "image_url": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/7hl24gpmnyvdpstiqyg3jt_product_list.jpg"
+        },
+        {
+          "item_id": 305,
+          "name": "Veggie Whopper",
+          "description": "Whopper with a vegetable patty.",
+          "price": 290,
+          "category": "Burgers",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/58f/f10379c6bd1edbbb7ee38da07c78058f.jpeg"
+        },
+        {
+          "item_id": 306,
+          "name": "Paneer King Burger",
+          "description": "Paneer patty with signature sauces.",
+          "price": 200,
+          "category": "Burgers",
+          "is_veg": true,
+          "image_url": "https://dukaan.b-cdn.net/700x700/webp/4298269/116f5d11-697f-4293-8902-effa210a347e/mcspicy-paneer-burger-500x500-22d69eca-326a-4a1a-ab84-613651f7aff8.png"
+        },
+        {
+          "item_id": 307,
+          "name": "Coca-Cola",
+          "description": "Chilled refreshing beverage.",
+          "price": 60,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/b7hdgz6h6i8ijhxqn98aza_product_list.jpg"
+        },
+        {
+          "item_id": 308,
+          "name": "Chocolate Sundae",
+          "description": "Vanilla ice cream topped with chocolate sauce.",
+          "price": 120,
+          "category": "Dessert",
+          "is_veg": true,
+          "image_url": "https://s3-eu-central-1.amazonaws.com/www.burger-king.ng/wp-media-folder-burger-king-nigeria//home/ubuntu/wordpress/web/app/uploads/sites/12/2021/09/chocolate-sundae.jpg"
+        },
+        {
+          "item_id": 309,
+          "name": "Mango Shake",
+          "description": "Rich and creamy mango-flavored shake.",
+          "price": 150,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vvf97zpixGRUU-_k8wKHsuE2EPc2TJ0M8Q&s"
+        },
+        {
+          "item_id": 310,
+          "name": "Spicy Chicken Whopper",
+          "description": "Whopper with a spicy chicken patty.",
+          "price": 350,
+          "category": "Burgers",
+          "is_veg": false,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuctM-Vr9xfd30KvL52K1MdnbnqbSDK4wcxWbIwCArDMCIAeEvyVkABQ-vuiqxkdlVSs&usqp=CAU"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Belgian Waffle",
+      "cuisine": "Desserts",
+      "rating": 4.5,
+      "location": {
+        "address": "Ghod Dod Road, Surat, Gujarat",
+        "latitude": 21.1915,
+        "longitude": 72.8505
+      },
+      "menu": [
+        {
+          "item_id": 401,
+          "name": "Classic Belgian Waffle",
+          "description": "Crispy waffle with a soft center, served with maple syrup.",
+          "price": 180,
+          "category": "Waffles",
+          "is_veg": true,
+          "image_url": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/lzaqjwcu/2705734b-bf8c-4e7f-bbfc-b44b3f915640.jpg"
+        },
+        {
+          "item_id": 402,
+          "name": "Chocolate Loaded Waffle",
+          "description": "Waffle topped with rich chocolate sauce and sprinkles.",
+          "price": 220,
+          "category": "Waffles",
+          "is_veg": true,
+          "image_url": "https://imgmedia.lbb.in/media/2020/01/5e1ac500f57d0a47bd4b2d6b_1578812672701.jpg"
+        },
+        {
+          "item_id": 403,
+          "name": "Strawberry Delight Waffle",
+          "description": "Waffle topped with fresh strawberries and whipped cream.",
+          "price": 240,
+          "category": "Waffles",
+          "is_veg": true,
+          "image_url": "https://img.freepik.com/premium-photo/belgian-waffle-delight_1036998-105970.jpg"
+        },
+        {
+          "item_id": 404,
+          "name": "Nutella Banana Waffle",
+          "description": "Waffle topped with Nutella and sliced bananas.",
+          "price": 260,
+          "category": "Waffles",
+          "is_veg": true,
+          "image_url": "https://pbs.twimg.com/media/D2hFgGRWwAAUVR0.jpg"
+        },
+        {
+          "item_id": 405,
+          "name": "Blueberry Waffle",
+          "description": "Crispy waffle served with blueberry compote and whipped cream.",
+          "price": 250,
+          "category": "Waffles",
+          "is_veg": true,
+          "image_url": "https://www.kyleecooks.com/wp-content/uploads/2019/05/Blueberry-Waffles-9.jpg"
+        },
+        {
+          "item_id": 406,
+          "name": "Belgian Chocolate Shake",
+          "description": "Thick shake with rich Belgian chocolate flavor.",
+          "price": 150,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/reviews_photos/0ec/88bd23149175714cf8463f71158920ec_1543153525.jpg?fit=around|750:500&crop=750:500;*,*"
+        },
+        {
+          "item_id": 407,
+          "name": "Vanilla Ice Cream Waffle",
+          "description": "Waffle topped with a scoop of vanilla ice cream.",
+          "price": 200,
+          "category": "Waffles",
+          "is_veg": true,
+          "image_url": "https://thumbs.dreamstime.com/b/waffle-breakfast-ice-cream-maple-syryp-warm-made-home-kitchen-68576014.jpg"
+        },
+        {
+          "item_id": 408,
+          "name": "Iced Caramel Coffee",
+          "description": "Cold coffee with caramel syrup and ice.",
+          "price": 120,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://heidishomecooking.com/wp-content/uploads/2019/05/Delicious-Iced-Caramel-Macchiato.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dairy Don Ice Cream",
+      "cuisine": "Dessert",
+      "rating": 4.7,
+      "location": {
+        "address": "Ghod Dod Road, Surat, Gujarat",
+        "latitude": 21.1643,
+        "longitude": 72.8397
+      },
+      "menu": [
+        {
+          "item_id": 501,
+          "name": "Vanilla Ice Cream",
+          "description": "Classic vanilla flavor ice cream.",
+          "price": 80,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/e94/b1056134209a2a091501654a95740e94.jpg"
+        },
+        {
+          "item_id": 502,
+          "name": "Chocolate Ice Cream",
+          "description": "Rich chocolate flavor ice cream.",
+          "price": 90,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/a2c/5aaa44d3dc3f71506e93918219443a2c.jpg"
+        },
+        {
+          "item_id": 503,
+          "name": "Strawberry Sundae",
+          "description": "Delicious strawberry ice cream with toppings.",
+          "price": 120,
+          "category": "Sundae",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/7a3/533290e1d53eda3fc29f89c1e44d27a3.jpg"
+        },
+        {
+          "item_id": 504,
+          "name": "Butterscotch Ice Cream",
+          "description": "Creamy butterscotch flavor ice cream.",
+          "price": 95,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2021/12/Butterscotch-ice-cream-hero-4.jpg"
+        },
+        {
+          "item_id": 505,
+          "name": "Mango Ice Cream",
+          "description": "Refreshing mango flavor ice cream.",
+          "price": 100,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://veenaazmanov.com/wp-content/uploads/2017/08/Homemade-Mango-Ice-Cream-No-Churn-Recipe5-500x500.jpg"
+        },
+        {
+          "item_id": 506,
+          "name": "Chocolate Chip Cookie Dough",
+          "description": "Ice cream with chocolate chip cookie dough pieces.",
+          "price": 110,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://www.allrecipes.com/thmb/8xwaWAHtl_QLij6D-G0Z4B1HDVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10813-best-chocolate-chip-cookies-mfs-146-4x3-b108aceffa6043a1ac81c3c5a9b034c8.jpg"
+        },
+        {
+          "item_id": 507,
+          "name": "Oreo Blast",
+          "description": "Oreo cookie ice cream with cookie chunks.",
+          "price": 130,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://order.dairyqueen.com.ph/wp-content/uploads/2024/03/DQ-ONDS-BOGO-Medium-Blizzard.jpg"
+        },
+        {
+          "item_id": 508,
+          "name": "Pistachio Ice Cream",
+          "description": "Nutty pistachio flavored ice cream.",
+          "price": 120,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/4ec/082a94a3fbe5d73c2cb2e7936a3c14ec.jpeg"
+        },
+        {
+          "item_id": 509,
+          "name": "Mint Chocolate Chip",
+          "description": "Mint ice cream with chocolate chip pieces.",
+          "price": 115,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://againstallgrain.com/wp-content/uploads/2012/01/IMG_2782-1024x682.jpg"
+        },
+        {
+          "item_id": 510,
+          "name": "Fruity Blast",
+          "description": "Ice cream with mixed fruit flavors.",
+          "price": 100,
+          "category": "Ice Cream",
+          "is_veg": true,
+          "image_url": "https://www.mashed.com/img/gallery/we-tried-dairy-queens-new-fruity-blast-dipped-cone-heres-how-it-went/l-intro-1650294171.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Subway Surat",
+      "cuisine": "Fast Food",
+      "rating": 4.5,
+      "location": {
+        "address": "Ghod Dod Road, Surat, Gujarat",
+        "latitude": 21.1702,
+        "longitude": 72.8311
+      },
+      "menu": [
+        {
+          "item_id": 601,
+          "name": "Veggie Delite",
+          "description": "Fresh vegetables and sauces on freshly baked bread.",
+          "price": 150,
+          "category": "Sandwich",
+          "is_veg": true,
+          "image_url": "https://subwayisfresh.com.sg/wp-content/uploads/2022/01/veggie-delite-PH-594x334-1.jpeg"
+        },
+        {
+          "item_id": 602,
+          "name": "Chicken Teriyaki",
+          "description": "Grilled chicken with teriyaki sauce.",
+          "price": 250,
+          "category": "Sandwich",
+          "is_veg": false,
+          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHTuwQXFImY0/v2/-1x-1.webp"
+        },
+        {
+          "item_id": 603,
+          "name": "Tuna Salad",
+          "description": "Tuna mixed with mayonnaise and fresh vegetables.",
+          "price": 220,
+          "category": "Salad",
+          "is_veg": false,
+          "image_url": "https://5.imimg.com/data5/CA/NS/GLADMIN-48125880/tuna-salad.png"
+        },
+        {
+          "item_id": 604,
+          "name": "Meatball Marinara",
+          "description": "Savory meatballs in marinara sauce.",
+          "price": 300,
+          "category": "Sandwich",
+          "is_veg": false,
+          "image_url": "https://subwayisfresh.com.sg/wp-content/uploads/2022/01/meatball-marinara-PH-594x334-1.jpeg"
+        },
+        {
+          "item_id": 605,
+          "name": "Falafel Sub",
+          "description": "Crispy falafel with tahini sauce.",
+          "price": 180,
+          "category": "Sandwich",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_i3mrH4D6Yg46lydJxdgOwvWF6vlhwa8cyw&s"
+        },
+        {
+          "item_id": 606,
+          "name": "Cookies",
+          "description": "Soft and chewy cookies.",
+          "price": 50,
+          "category": "Dessert",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-o6WDDeP8IplLGfl1xxQR9nalENbBKVMRQ&s"
+        },
+        {
+          "item_id": 607,
+          "name": "Chips",
+          "description": "Crunchy potato chips.",
+          "price": 30,
+          "category": "Snacks",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO1zLKWKTUGvnpYJ9Ih2SmvQEZINtPOcOIUQ&s"
+        },
+        {
+          "item_id": 608,
+          "name": "Cold Drink",
+          "description": "Chilled soft drink.",
+          "price": 60,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12fJNdZVz7IGt_vtJLDAnLsEA2hUNmNcSAA&s"
+        },
+        {
+          "item_id": 609,
+          "name": "Lemonade",
+          "description": "Refreshing lemonade.",
+          "price": 70,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://images.squarespace-cdn.com/content/v1/51e801b9e4b0a6a18429fc69/1583759135000-XRMZLYSI859GHAL91ECP/17.jpg?format=2500w"
+        },
+        {
+          "item_id": 610,
+          "name": "Fruit Salad",
+          "description": "Fresh seasonal fruits.",
+          "price": 120,
+          "category": "Salad",
+          "is_veg": true,
+          "image_url": "https://streetsmartnutrition.com/wp-content/uploads/2021/06/Summer-Fruit-Salad-14.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Starbucks Surat",
+      "cuisine": "Coffee & Beverages",
+      "rating": 4.6,
+      "location": {
+        "address": "City Center, Surat, Gujarat",
+        "latitude": 21.1702,
+        "longitude": 72.8311
+      },
+      "menu": [
+        {
+          "item_id": 701,
+          "name": "Espresso",
+          "description": "Rich and bold coffee shot.",
+          "price": 150,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://starbucks-menu-with-prices.com/wp-content/uploads/2023/11/Espresso-Macchiato.jpeg"
+        },
+        {
+          "item_id": 702,
+          "name": "Caffe Latte",
+          "description": "Espresso with steamed milk.",
+          "price": 200,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://starbucks-menu-with-prices.com/wp-content/uploads/2023/11/Caffe-Latte.jpeg"
+        },
+        {
+          "item_id": 703,
+          "name": "Caramel Macchiato",
+          "description": "Espresso with vanilla and caramel.",
+          "price": 250,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhcOeMwuN4AiAXHynWq6x7j6AYiEB632YYA&s"
+        },
+        {
+          "item_id": 704,
+          "name": "Frappuccino",
+          "description": "Blended coffee with ice and flavors.",
+          "price": 300,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://www.starbucks.co.nz/content/menu/0975855001646124733.jpg?width=296"
+        },
+        {
+          "item_id": 705,
+          "name": "Choco Chip Muffin",
+          "description": "Soft muffin with chocolate chips.",
+          "price": 80,
+          "category": "Snacks",
+          "is_veg": true,
+          "image_url": "https://www.digitalassets.starbucks.eu/sites/starbucks-medialibrary/files/CH-AT-MOP-Triple-Chocolate-Muffin.jpeg"
+        },
+        {
+          "item_id": 706,
+          "name": "Cheese Croissant",
+          "description": "Flaky croissant with cheese filling.",
+          "price": 100,
+          "category": "Snacks",
+          "is_veg": true,
+          "image_url": "https://www.digitalassets.starbucks.eu/sites/starbucks-medialibrary/files/AT-MOP-Ham-Cheese-Croissant.jpeg"
+        },
+        {
+          "item_id": 707,
+          "name": "Blueberry Muffin",
+          "description": "Delicious muffin filled with blueberries.",
+          "price": 90,
+          "category": "Snacks",
+          "is_veg": true,
+          "image_url": "https://www.digitalassets.starbucks.eu/sites/starbucks-medialibrary/files/CH-AT-MOP-Blueberry-Muffin.jpeg"
+        },
+        {
+          "item_id": 708,
+          "name": "Iced Tea",
+          "description": "Refreshing cold tea with lemon.",
+          "price": 120,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://www.starbucks.co.th/stb-media/2024/02/website-1080x1080-iced-shaken-mango-passionfruit-black-tea-65deb97c18dd6-600x600.webp"
+        },
+        {
+          "item_id": 709,
+          "name": "Matcha Latte",
+          "description": "Green tea matcha with steamed milk.",
+          "price": 250,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://www.digitalassets.starbucks.eu/sites/starbucks-medialibrary/files/Matcha-Green-Tea-Latte---Feb-2023.jpeg"
+        },
+        {
+          "item_id": 710,
+          "name": "Vanilla Bean Scone",
+          "description": "Buttery scone with vanilla flavor.",
+          "price": 110,
+          "category": "Snacks",
+          "is_veg": true,
+          "image_url": "https://starbucks-menu-with-prices.com/wp-content/uploads/2024/02/Petite-Vanilla-Bean-Scone.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sarvottam Restaurant",
+      "cuisine": "Indian",
+      "rating": 4.7,
+      "location": {
+        "address": "Ghod Dod Road, Surat, Gujarat",
+        "latitude": 21.1708,
+        "longitude": 72.8315
+      },
+      "menu": [
+        {
+          "item_id": 801,
+          "name": "Veg Biryani",
+          "description": "Flavorful rice with mixed vegetables.",
+          "price": 280,
+          "category": "Main Course",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaeBlIywcv4RMaVlvzAk-ygkpjyiX0juwM6Q&s"
+        },
+        {
+          "item_id": 802,
+          "name": "Methi Malai Murg",
+          "description": "Chicken cooked in fenugreek cream sauce.",
+          "price": 360,
+          "category": "Main Course",
+          "is_veg": false,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGDdoPvxswTGxYgxVaH2WgwyHxsaYncXyhBvsojfa3ltCVsYO9W2wb808CSqgW8eRS6g&usqp=CAU"
+        },
+        {
+          "item_id": 803,
+          "name": "Chole Bhature",
+          "description": "Spicy chickpeas with deep-fried bread.",
+          "price": 180,
+          "category": "Starters",
+          "is_veg": true,
+          "image_url": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/mevgviwjlo3rlvij3nhw"
+        },
+        {
+          "item_id": 804,
+          "name": "Paneer Lababdar",
+          "description": "Paneer in a rich tomato gravy.",
+          "price": 320,
+          "category": "Main Course",
+          "is_veg": true,
+          "image_url": "https://skydecklounge.in/wp-content/uploads/2022/01/Paneer-Lababdar.jpg"
+        },
+        {
+          "item_id": 805,
+          "name": "Roti",
+          "description": "Whole wheat Indian flatbread.",
+          "price": 30,
+          "category": "Bread",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/7d7/59c826c1aeb8eaffdef1d0670eaae7d7.jpeg"
+        },
+        {
+          "item_id": 806,
+          "name": "Gajar Ka Halwa",
+          "description": "Carrot dessert with nuts and khoya.",
+          "price": 150,
+          "category": "Dessert",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeQXKqA3Z-Q53qrRdMJabEnoeTkR69Rkxiw&s"
+        },
+        {
+          "item_id": 807,
+          "name": "Dal Tadka",
+          "description": "Yellow lentils tempered with spices.",
+          "price": 200,
+          "category": "Main Course",
+          "is_veg": true,
+          "image_url": "https://b.zmtcdn.com/data/dish_photos/b89/1d7e9019bd5c5928f3d688f48b5dbb89.jpg"
+        },
+        {
+          "item_id": 808,
+          "name": "Fish Curry",
+          "description": "Fish cooked in spicy coconut gravy.",
+          "price": 420,
+          "category": "Main Course",
+          "is_veg": false,
+          "image_url": "https://content.jdmagicbox.com/comp/def_content/non_veg_thali_restaurants/default-non-veg-thali-restaurants-7.jpg"
+        },
+        {
+          "item_id": 809,
+          "name": "Vegetable Pulao",
+          "description": "Fragrant rice cooked with vegetables.",
+          "price": 210,
+          "category": "Rice",
+          "is_veg": true,
+          "image_url": "https://content.jdmagicbox.com/comp/panchmahal/h5/9999p2672.2672.131026162004.x2h5/catalogue/ramnivas-restaurant-godhra-panchmahal-restaurants-hiwu3l.jpg"
+        },
+        {
+          "item_id": 810,
+          "name": "Lassi",
+          "description": "Traditional yogurt drink, sweet or salty.",
+          "price": 70,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://static.toiimg.com/thumb/58360232.cms?imgsize=1259672&width=800&height=800"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Atul Cake",
+      "cuisine": "Bakery",
+      "rating": 4.9,
+      "location": {
+        "address": "Nana Varachha, Surat, Gujarat",
+        "latitude": 21.2000,
+        "longitude": 72.8300
+      },
+      "menu": [
+        {
+          "item_id": 901,
+          "name": "Chocolate Cake",
+          "description": "Rich chocolate cake with creamy frosting.",
+          "price": 500,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://cdn.uengage.io/uploads/7175/image-8LDDGZ-1706080808.jpg"
+        },
+        {
+          "item_id": 902,
+          "name": "Vanilla Sponge Cake",
+          "description": "Light and fluffy vanilla sponge cake.",
+          "price": 450,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://i.ytimg.com/vi/Srb6g91KvT0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDFGHGYno4NyBN4yBOTTKTQxpmMow"
+        },
+        {
+          "item_id": 903,
+          "name": "Red Velvet Cake",
+          "description": "Moist red velvet cake with cream cheese frosting.",
+          "price": 600,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/2/386840438/AW/NS/LE/144303146/red-velvet-pastry.jpg"
+        },
+        {
+          "item_id": 904,
+          "name": "Black Forest Cake",
+          "description": "Chocolate sponge cake with cherries and whipped cream.",
+          "price": 550,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://cdn.uengage.io/uploads/7175/image-791282-1717509089.jpeg"
+        },
+        {
+          "item_id": 905,
+          "name": "Fruit Cake",
+          "description": "Delicious cake filled with seasonal fruits.",
+          "price": 500,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://bkmedia.bakingo.com/sq-healthful-fruit-pastries-past0207frui-C_0.jpg"
+        },
+        {
+          "item_id": 906,
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with a graham cracker crust.",
+          "price": 650,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://www.thespicehouse.com/cdn/shop/articles/Old_Fashioned_Cheesecake_720x.jpg?v=1606236739"
+        },
+        {
+          "item_id": 907,
+          "name": "Mango Mousse Cake",
+          "description": "Light and airy mango mousse cake.",
+          "price": 550,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://sugargeekshow.com/wp-content/uploads/2022/05/mango_mousse_fbphoto.jpg"
+        },
+        {
+          "item_id": 908,
+          "name": "Pineapple Cake",
+          "description": "Refreshing pineapple-flavored cake.",
+          "price": 500,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://www.muffinscakes.com/files/catalog/New%20Photoshoot%20Cakes/Pineapple%20Pastry.JPG"
+        },
+        {
+          "item_id": 909,
+          "name": "Coffee Cake",
+          "description": "Moist coffee-flavored cake with nuts.",
+          "price": 450,
+          "category": "Cakes",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYe3MEZFpmnYr_3iSpLSqu6nbc_XTZ83yWQ&s"
+        },
+        {
+          "item_id": 910,
+          "name": "Lemon Tart",
+          "description": "Tangy lemon tart with a buttery crust.",
+          "price": 300,
+          "category": "Tarts",
+          "is_veg": true,
+          "image_url": "https://sugargeekshow.com/wp-content/uploads/2022/02/lemon_tart-25.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Chasswala Lassi",
+      "cuisine": "Indian",
+      "rating": 4.9,
+      "location": {
+        "address": "Gandhi Nagar, Surat, Gujarat",
+        "latitude": 21.1700,
+        "longitude": 72.8315
+      },
+      "menu": [
+        {
+          "item_id": 1010,
+          "name": "Sweet Lassi",
+          "description": "Creamy yogurt drink sweetened with sugar.",
+          "price": 60,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://pipingpotcurry.com/wp-content/uploads/2021/05/Lassi-in-a-glass.jpg"
+        },
+        {
+          "item_id": 1020,
+          "name": "Salted Lassi",
+          "description": "Refreshing yogurt drink with a hint of salt.",
+          "price": 60,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_kJm0MEJ3PXSGsRFs8N_-260n51dFS3LZF52rCdfC9k8ki36y2IiOrKqWMBS3cc4DbgU&usqp=CAU"
+        },
+        {
+          "item_id": 1030,
+          "name": "Mango Lassi",
+          "description": "Yogurt drink blended with ripe mangoes.",
+          "price": 80,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://www.yellowthyme.com/wp-content/uploads/2023/03/Mango-Lassi-08589.jpg"
+        },
+        {
+          "item_id": 1040,
+          "name": "Rose Lassi",
+          "description": "Delightful yogurt drink flavored with rose essence.",
+          "price": 70,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://masalaandchai.com/wp-content/uploads/2022/01/Sweet-Rose-Lassi.jpg"
+        },
+        {
+          "item_id": 1050,
+          "name": "Chasswala Special Lassi",
+          "description": "Rich yogurt drink topped with nuts and a swirl of cream.",
+          "price": 100,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://www.shutterstock.com/shutterstock/photos/1651389775/display_1500/stock-photo-foodies-shahi-kullahad-lassi-fresh-food-images-meals-photoshoot-1651389775.jpg"
+        },
+        {
+          "item_id": 1060,
+          "name": "Pistachio Lassi",
+          "description": "Yogurt drink flavored with pistachios.",
+          "price": 90,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://i.pinimg.com/474x/78/cb/4e/78cb4ec5b575de461005b4205b3a6d57.jpg"
+        },
+        {
+          "item_id": 1070,
+          "name": "Banana Lassi",
+          "description": "Smooth yogurt drink blended with bananas.",
+          "price": 80,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/06/Banana-Smoothie-5.jpg"
+        },
+        {
+          "item_id": 1080,
+          "name": "Strawberry Lassi",
+          "description": "Refreshing yogurt drink with fresh strawberries.",
+          "price": 90,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://www.acouplecooks.com/wp-content/uploads/2020/04/Strawberry-Smoothie-003.jpg"
+        },
+        {
+          "item_id": 1090,
+          "name": "Cardamom Lassi",
+          "description": "Spiced yogurt drink with cardamom flavor.",
+          "price": 70,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://nainasindiankitchen.com/wp-content/uploads/2023/10/Sweet-Lassi-with-Green-Cardamom.png"
+        },
+        {
+          "item_id": 1100,
+          "name": "Mint Lassi",
+          "description": "Cool and refreshing yogurt drink with mint.",
+          "price": 70,
+          "category": "Beverages",
+          "is_veg": true,
+          "image_url": "https://www.thespruceeats.com/thmb/x8pfeCxZuRYP3-3VavQZqQgQaxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mint-lassi-2216233-hero-01-9909ebbb5705484c926c23559d96615f.jpg"
+        }
+      ]
+    }
+  ]
+}
