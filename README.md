@@ -29,14 +29,14 @@ Technologies used in the project:
 
 <h2>📃Documetation </h2>
 
-[Documentation](https://docs.google.com/document/d/17-Cq1-YZUt8N5CCIr6QZLyX1FtSwTfrxOFSiaWONkSE/edit?usp=sharing)
+[Documentation](https://docs.google.com/document/d/1daWQ9BZ00OqbH-YWdrUK7s1NfjAJIvAV5uWt0u_SmPI/edit?usp=sharing)
 
 
 <br>
 
 <h2>📃PPT </h2>
 
-[PPT](https://docs.google.com/presentation/d/1_I2rY47MNQUz0-wwKXIRJFFy_zrvFU0yjzJ_sAzAsEg/edit?usp=sharing)
+[PPT](https://docs.google.com/presentation/d/1IIX86gWn7efh5ncpiUX2DT7WBZZqQ0BV-sN3KtXhGf8/edit?usp=sharing)
 
 <br>
 
@@ -46,6 +46,24 @@ Technologies used in the project:
 
 <br>
 
-## 🈸App Flow
-<img src = "https://github.com/theAkHilsarkar18/skyer/assets/113697861/abe20b87-6635-424c-a1d5-3da81d351681">
+
+
+<h2>Screen </h2>
+
+
+
+
+
+
+
+<br>
+<h2>Video </h2>
+
+
+
+https://github.com/user-attachments/assets/f53c9956-d5e6-42f8-b105-209e1427e488
+
+
+
+<br>
 <!-- ![85cc7bd1-8320-4db1-b703-c797aeed878b](https://github.com/theAkHilsarkar18/skyer/assets/113697861/abe20b87-6635-424c-a1d5-3da81d351681) -->
