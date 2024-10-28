@@ -49,6 +49,25 @@ Technologies used in the project:
 
 
 <h2>Screen </h2>
+<img src='https://github.com/user-attachments/assets/ccc978fd-31d7-400c-8653-0580a072692c' width=240>
+<img src='https://github.com/user-attachments/assets/94bd39ad-3c52-4775-93f9-4c83d9b0b57e' width=240>
+
+
+<img src='https://github.com/user-attachments/assets/4350242e-9e22-4a4c-8a82-a8836206f517' width=240>
+<img src='https://github.com/user-attachments/assets/c69790c2-671e-4913-ac8d-358ee69bb3f1' width=240>
+<img src='https://github.com/user-attachments/assets/57c39460-e318-4f02-bb4c-b944e6eeed7f' width=240>
+<img src='https://github.com/user-attachments/assets/4be5700e-8c64-44da-9ee9-28ff89162ff0' width=240>
+<img src='https://github.com/user-attachments/assets/e61912e7-dbc2-4ccb-9e05-d92d842d4d08' width=240>
+<img src='https://github.com/user-attachments/assets/df232a22-fca4-4232-86eb-c96969543356' width=240>
+<img src='https://github.com/user-attachments/assets/166c6ab4-a099-4b58-bd56-2c5c08e58205' width=240>
+
+<img src='https://github.com/user-attachments/assets/da79662a-f9ef-4830-8461-aad3f040c2e5' width=240>
+<img src='https://github.com/user-attachments/assets/140778fe-75de-4c9b-bbec-1e2ff8b9c9cb' width=240>
+<img src='https://github.com/user-attachments/assets/57468660-73b0-45b2-8a15-2f8201fccc37' width=240>
+<img src='https://github.com/user-attachments/assets/e4fd2ead-d15f-4453-b158-70719f937953' width=240>
+
+
+
 
 
 
