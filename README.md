@@ -69,6 +69,12 @@ Technologies used in the project:
 
 
 
+<img src='https://github.com/user-attachments/assets/48c3b7a2-9f11-4864-a9cc-b4580a5a8211' >
+<img src='https://github.com/user-attachments/assets/ab92a5f7-12a5-4558-8cf8-fd163e225bd5' >
+<img src='https://github.com/user-attachments/assets/64904c57-a43a-4535-9044-27efe9ae11d9' >
+
+
+
 
 
 
